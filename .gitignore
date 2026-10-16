@@ -1,0 +1,17 @@
+# Local secrets and credentials
+secrets.py
+.env
+.env.*
+*.secret
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+
+# Editor and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local test logs
+*.log
