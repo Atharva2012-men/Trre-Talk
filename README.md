@@ -1,2 +1,2 @@
 # Trre-Talk
-A machine That detect life of a tree
+A machine That detect life of a tree                                                                                                                                              Smart Tree Talk is a hardware project using an ESP32 microcontroller and sensors to monitor a plant’s soil moisture and pH level. It will display the plant’s condition on a screen or mobile dashboard and may use a small water pump to water the plant automatically when needed. The project aims to help people understand their plants’ needs through simple messages and alerts while learning about electronics, sensors, and automation.
